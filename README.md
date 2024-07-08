@@ -9,9 +9,9 @@ O objetivo deste projeto é comparar a performance de diferentes algoritmos de a
 ## Requisitos
 
 Python 3.6+
+
 Pandas
-Scikit-learn
-NumPy
+
 Jupyter
 
 ## Como Executar
